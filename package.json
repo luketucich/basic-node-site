@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-site",
+  "version": "1.0.0",
+  "description": "My first Node Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luketucich/basic-node-site.git"
+  },
+  "author": "Luke Tucich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luketucich/basic-node-site/issues"
+  },
+  "homepage": "https://github.com/luketucich/basic-node-site#readme"
+}
