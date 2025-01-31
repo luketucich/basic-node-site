@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luketucich/basic-node-site/issues"
   },
-  "homepage": "https://github.com/luketucich/basic-node-site#readme"
+  "homepage": "https://github.com/luketucich/basic-node-site#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
